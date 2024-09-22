@@ -1,0 +1,17 @@
+a {
+    display: block;
+    width: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    border-radius: 10px;
+    margin: 50px auto; 
+    padding: 15px 20px;
+    background-color: #4CAF50; 
+    color: white; 
+    text-align: center;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #388E3C; 
+}
